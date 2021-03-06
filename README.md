@@ -3,5 +3,6 @@
   <img src="https://raw.githubusercontent.com/sigeek/sanremo-2021/main/images/wordCloudwithBackground.jpg?token=ALUJE6NNYFCW364AYAMWKO3AIOJRK" >
 </p>
   
+Wordcloud ottenuta analizzando le parole più frequenti dei testi presentati dai cantati a Sanremo 2021.
 Immagine di sfondo presa dal [sito ufficiale del Teatro Ariston di Sanremo](https://aristonsanremo.com/home2/) \
 Data ottenuti da [TV sorrisi e canzoni](https://www.sorrisi.com)
