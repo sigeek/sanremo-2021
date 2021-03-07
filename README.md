@@ -1,4 +1,4 @@
-# Sanremo 2021: il festival della musica italiana in una foto
+# Sanremo 2021: il festival della canzone italiana in una foto
 <p align="center">
   <img src="https://github.com/sigeek/sanremo-2021/blob/main/images/wordCloudwithBackground.jpg" >
 </p>
