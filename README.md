@@ -5,4 +5,4 @@
   
 Wordcloud ottenuta analizzando le parole più frequenti dei testi presentati dai cantati a Sanremo 2021. \
 Immagine di sfondo presa dal [sito ufficiale del Teatro Ariston di Sanremo](https://aristonsanremo.com/home2/) \
-Data ottenuti da [TV sorrisi e canzoni](https://www.sorrisi.com)
+Dati relativi ai testi delle canzon ottenuti da [TV sorrisi e canzoni](https://www.sorrisi.com)
